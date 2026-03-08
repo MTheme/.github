@@ -54,8 +54,8 @@ We utilize the following modern tech stack to build our UIs and underlying syste
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MTheme&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A3B3BC" alt="MTheme GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTheme&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A3B3BC" alt="MTheme Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoRan1412&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A3B3BC" alt="MTheme GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoRan1412&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A3B3BC" alt="MTheme Top Languages" width="48%" />
 </div>
 
 ---
@@ -65,7 +65,7 @@ We utilize the following modern tech stack to build our UIs and underlying syste
 Whether you are a user looking for home screen customization inspiration, or a developer interested in KLWP formulas and Android development, you are welcome to join us!
 
 - 🐛 **Found a bug?** Please submit an Issue in the corresponding project repository.
-- 💬 **Want to chat?** Join our [Discord Channel](#) to get first-hand beta versions and update notifications.
+- 💬 **Want to chat?** Join our [Discord Channel](https://discord.gg/SWaH6jBjCU) to get first-hand beta versions and update notifications.
 
 <div align="center">
   <br>
