@@ -5,7 +5,7 @@
 **Crafting Elegant & Highly Customizable Android Experiences.**
 
 [![Website](https://img.shields.io/badge/Website-mtheme.top-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mtheme.top)
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SWaH6jBjCU)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](#)
 [![Android](https://img.shields.io/badge/Android-Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 
