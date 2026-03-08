@@ -54,8 +54,8 @@ We utilize the following modern tech stack to build our UIs and underlying syste
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A3B3BC" alt="MTheme GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A3B3BC" alt="MTheme Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MTheme&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A3B3BC" alt="MTheme GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTheme&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=A3B3BC" alt="MTheme Top Languages" width="48%" />
 </div>
 
 ---
